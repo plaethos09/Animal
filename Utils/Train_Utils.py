@@ -21,7 +21,6 @@ src_path = os.path.join(get_parent_dir(2), "src")
 sys.path.append(src_path)
 
 import numpy as np
-
 import keras.backend as K
 from keras.layers import Input, Lambda
 from keras.models import Model
