@@ -14,7 +14,6 @@ progressbar2==3.46.1
 
 gast==0.2.2
 
-grpcio==1.22.0
 h5py==2.9.0
 idna==2.8
 ipykernel==5.1.1
